@@ -1,0 +1,30 @@
+_repo: Uncle-BernacA-Memory-of-the-Empire_10581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, A. Conan
+    - Doyle, Sir Arthur Conan
+    - Conan Doyle, Arthur, Sir
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Uncle Bernac: A Memory of the Empire'
+url: http://www.gutenberg.org/ebooks/10581
