@@ -2509,7 +2509,7 @@ denounce the would-be assassin.'
 
 'To denounce him!' cried the girl.  'I know that it was you who set him
 on, who encouraged him, who held him to it whenever he tried to draw
-back.  Oh, you villain! you villain!  What have I over done, what sin of
+back.  Oh, you villain! you villain!  What have I ever done, what sin of
 my ancestors am I expiating, that I should be compelled to call such a
 man Father?'
 
@@ -3360,7 +3360,7 @@ gentleness and kindness in their expression.
 Jacobins; but that we are all Frenchmen working for the glory of our
 country.  Have you seen Louis de Bourbon?'
 
-'I have seen him once, Sire?'
+'I have seen him once, Sire.'
 
 'An insignificant-looking man, is he not?'
 
@@ -3577,7 +3577,7 @@ will die at my post without a murmur, for if he is hard upon us he is
 hard upon himself also.'
 
 'He was the man for France,' said de Caulaincourt.  'He is the very
-genius of system and of order, and of discipline.  When one renumbers
+genius of system and of order, and of discipline.  When one remembers
 the chaos in which our poor country found itself after the Revolution,
 when no one would be governed and everyone wanted to govern someone
 else, you will understand that only Napoleon could have saved us.
@@ -4640,7 +4640,7 @@ we were arranging the Treaty of Campo Formio--I a young general under
 thirty--there was a high vacant throne with the Imperial arms in the
 Commissioner's tent.  I instantly sprang up the steps, and threw myself
 down upon it. I could not endure to think that there was anything above
-myself.  And all the time I knew in my heart all that was going to 
+myself.  And all the time I knew in my heart all that was going to
 happen to me.  Even in the days when my brother Lucien and I lived in
 a little room upon a few francs a week, I knew perfectly well that the
 day would come when I should stand where I am now.  And yet I had no
@@ -4700,7 +4700,7 @@ upon the sconces round the room.
 
 'And the other, the Countess?'
 
-'She has a cottage at Ambleteuse?'
+'She has a cottage at Ambleteuse.'
 
 'But we must have no scandal about the Court,' said Talleyrand, with a
 sour smile, recalling the moral sentiments with which the Emperor had
